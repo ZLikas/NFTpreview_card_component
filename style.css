@@ -1,0 +1,56 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  hyphens: auto;
+  background-color: hsl(217, 54%, 11%);
+}
+.container {
+ height: 545px;
+ width: 325px;
+ padding-top: 26px;
+ margin: 63px auto;
+ background-color:  hsl(216, 50%, 16%);
+ border-radius: 10px;
+}
+.imgCube {
+  background-image: url("images/image-equilibrium.jpg");
+  width: 277px;
+  height: 277px;
+  background-size: cover;
+  margin: 0px auto;
+  border-radius: 10px;
+}
+.textArea {
+  width: 275px;
+  margin: 0px auto;
+}
+h1 {
+  color: hsl(0, 0%, 100%);
+  font-family: 'Outfit', sans-serif;
+  font-size: 22px;
+}
+p {
+  color: hsl(215, 51%, 70%);
+  font-size: 18px;
+}
+.accesories {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px solid hsl(215, 32%, 27%);
+}
+.iconwithtext {
+  display: flex;
+}
+.icon {
+  margin: 15px 5px 0px 0px;
+}
+.avatarWithText{
+  display: flex;
+}
+.avatar {
+  width: 40px;
+  margin: 5px;
+}
+strong {
+  color: hsl(0, 0%, 100%);
+}
