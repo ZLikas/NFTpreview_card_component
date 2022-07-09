@@ -20,6 +20,9 @@ body {
   margin: 0px auto;
   border-radius: 10px;
 }
+  #viewlogo {
+    display: none;
+  }
 .textArea {
   width: 275px;
   margin: 0px auto;
